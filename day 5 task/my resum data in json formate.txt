@@ -1,0 +1,46 @@
+var resum = {
+        "basics,INFO": {
+    "name": "JAYA SURYA M.N",
+    "email": "SURYATHEFORGIVER@GMAIL.COM",
+    "phone": 9025903441,
+    "degree": "B.com(ca),MBA(finance)",
+    "website": "https://github.com/JAYASURYA510",
+       "DOB" : "28,dec,2000",
+       "age" : 23,
+     },
+  "location": {
+    "address": "house no 1/8,maharajakaddai(v)and(p),krishnagi     ri(d)tamilnadu,india",
+      "postalCode": "635120",
+      "city": "krishnagiri",
+      "countryCode": "+91,india",
+      "region": "india,tamilnadu",
+    },
+     "education": {
+  "institution": "arignar anna arts and scince college krishnagiri",
+         "area": "NH43,pollupalii,krishnagiri",
+    "studyType": "bachelor of commerceand and (ca)",
+    "startDate": "18-7-2018",
+     "endDate" : "12-4-2021",
+          "gpa": "28.505",
+      "courses": "b.com(ca)",
+   "university": "periyeruniversity selam",
+       "dgree" : "undergraduate",
+       },
+       "skills":{
+      "name": "MERN stack developer",
+      "level": "mediatier",
+      "keywords": "html,c++,js,bootstrap,react,mongodb",
+      },
+"languages": {
+      "language": "English,tamil,telugu,kanada",
+      "fluency" : "english,tamil,telugu",
+     "literate" : "english,tamil,telugu,hindi",
+},
+"interests": {
+      "name": "sports",
+  "keywords":"cricket,chess",
+}
+}
+ console.log(resum)
+ 
+   
